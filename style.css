@@ -7,15 +7,16 @@
   display: grid;
   grid-template-columns: repeat(3, 16rem) 13rem;
   grid-template-rows: repeat(8, 9.5rem);
-  justify-content: center;
-  margin-top: 50px;
+  margin: 0 auto;
+  padding: 20px;
+  width: 1000px;
 }
 
 .content {
   background-color: rgba(0, 0, 255, 0.753);
   font-size: 1.5rem;
   color: white;
-  border: 1px solid;
+  /* border: 1px solid; */
   margin: 10px;
   padding: 15px;
 }
