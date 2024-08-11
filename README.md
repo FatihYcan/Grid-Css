@@ -10,8 +10,8 @@ This project is an example that allows you to create a grid layout using HTML an
 
 ## Technologies
 
-- HTML
-- CSS
+- HTML5
+- CSS3
 
 # Grid CSS Layout
 
@@ -26,7 +26,7 @@ Bu proje, HTML ve CSS kullanarak bir grid düzeni oluşturmanızı sağlayan bir
 ## Teknolojiler
 
 - HTML
-- CSS
+- CSS3
 
 ![Cw](./img/grid.jpg)
 
